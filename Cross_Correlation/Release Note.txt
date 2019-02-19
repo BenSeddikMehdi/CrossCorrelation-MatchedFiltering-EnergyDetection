@@ -1,0 +1,11 @@
+Cross-Correlation
+
+I-      Measure Signal Similarities.
+
+II-     Example of cross-correlation between sinusPulse and its noisy version.
+
+III-	Example of cross-correlation between Linear FM waveform and its noisy version.
+
+
+By BENSEDDIK El Mehdi
+19_02_2019
