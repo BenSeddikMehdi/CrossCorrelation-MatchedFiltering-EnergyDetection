@@ -1,0 +1,12 @@
+Energy Detection :
+
+I-	Detect Signal Energy.
+
+II-	Find the Threashold.
+
+III-    Illustrate the the detected Energy above threshold.
+
+
+By BENSEDDIK El Mehdi
+
+02/21/2019
